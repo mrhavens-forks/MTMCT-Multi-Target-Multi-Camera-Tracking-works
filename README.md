@@ -1,4 +1,4 @@
-# MTMCT-Multi-Target-Multi-Camera-Tracking-works-
+# MTMCT-Multi-Target-Multi-Camera-Tracking-works
 A repo collecting recent works on MTMCT
 
 MOT-Duke MTMC challenge
@@ -14,7 +14,7 @@ MOT challenge
 Current state of the art models
 
 1. DeepCC: Features for Multi-Target Multi-Camera Tracking and Re-Identiﬁcation [paper](https://arxiv.org/pdf/1803.10859.pdf) (online; single camera & multi camera capable; tracker available in early July 2018; detector: OpenPose [paper](https://arxiv.org/pdf/1611.08050.pdf))
-2. MTMC-ReID: Multi-Target,Multi-Camera Tracking by Hierarchical Clustering:  Recent Progress on Duke MTMC Project [paper](https://arxiv.org/pdf/1712.09531.pdf) (private detector; near online; 1st in Duke MTMC; non-open source; both single and multi-camera; with AlignedReID as detector)
+2. MTMC-ReID: Multi-Target,Multi-Camera Tracking by Hierarchical Clustering:  Recent Progress on Duke MTMC Project [paper](https://arxiv.org/pdf/1712.09531.pdf) (near online; both single and multi-camera; with AlignedReID as detector)
    
 
 

@@ -3,9 +3,11 @@ A repo collecting recent works on MTMCT
 
 MOT-Duke MTMC challenge
 DukeMTMC aims to accelerate advances in multi-target multi-camera tracking. It provides a tracking system that works within and across cameras, a new large scale HD video data set recorded by 8 synchronized cameras with more than 7,000 single camera trajectories and over 2,000 unique identities, and a new performance evaluation method that measures how often a system is correct about who is where.
+
 [MOT-Duke MTMC challenge] (http://vision.cs.duke.edu/DukeMTMC/)
 
 MOT challenge
+
 [Welcome to MOTChallenge: The Multiple Object Tracking Benchmark!](https://motchallenge.net/)
 
 
